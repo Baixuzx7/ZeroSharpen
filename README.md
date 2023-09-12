@@ -40,10 +40,17 @@ The project is signed under the MIT license, see the [LICENSE.txt](https://githu
 ### Reference
 
 @article{wang2023zero,
+
   title={Zero-Sharpen: A universal pansharpening method across satellites for reducing scale-variance gap via zero-shot variation},
+  
   author={Wang, Hebaixu and Zhang, Hao and Tian, Xin and Ma, Jiayi},
+  
   journal={Information Fusion},
+  
   pages={102003},
+  
   year={2023},
+  
   publisher={Elsevier}
+  
 }
